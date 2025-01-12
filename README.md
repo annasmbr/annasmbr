@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hello! Welcome to my GitHub Profile
 
-<!--
-**annasmbr/annasmbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anna, a developer in training passionate about continuous learning and creating innovative solutions. 🚀
 
-Here are some ideas to get you started:
+🌱 What I'm Currently Doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning Python, JavaScript, React, Vue
+- Exploring projects related to web development, AI
+- Participating in coding challenges and improving my skills every day. 💡
+
+🛠️ Technologies I'm Learning
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Python
+- Tools: Git, GitHub, VS Code.
+
+🎯 My Goals
+
+- Contribute to open-source projects.
+- Build applications that are useful and practical.
+- Learn best practices in development and collaborate in teams.
+
+📬 Let's Connect!
+
+I'm open to collaborating on projects and connecting with other developers. 
+
+Thank you for visiting my profile! 😄
